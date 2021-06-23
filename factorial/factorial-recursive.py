@@ -1,4 +1,4 @@
-#Factorial de N (1 * 2 * 3 ... * n) CON RECURSIVIDAD NORMAL
+#Factorial de N (1 * 2 * 3 ... * n) CON TAIL-RECURSION
 
 def fact(n):
     if n == 1:
